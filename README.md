@@ -1,4 +1,3 @@
-Português | [English](en.md)
 # Haydê Cristhine de Almeida Machado
 
 ![](https://pt.gravatar.com/userimage/155115996/55bbd348440367fa92c4ebb252427885.jpg?size=200)
