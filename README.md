@@ -41,6 +41,11 @@ O curso de Informática foi direcionado ao desenvolvimento de aplicações Deskt
     Auxiliei no desenvolvimento de um sistema para um de seus clientes, a multinacional **DMS Logistics**, que vende serviços de transporte internacional, atuando tanto no backend quanto no frontend. O sistema desenvolvido, além de operacionalizar os serviços providos pela empresa, gerando documentos oficiais de embarque tanto áereo quanto marítimo, também organizava questões internas, como gestão de clientes, precificação e orçamento. E possuía uma plataforma para o cliente onde o mesmo poderia visualizar em tempo real o status da sua carga e baixar documentos/gerar relatórios. Culminando num total de 5 sistemas interligados.
 **Tecnologias Utilizadas: Python, Django, Django REST Framework, Gunicorn, openpyxl, requests, PostgreSQL, Fabric, Git, HTTP, REST, SSO, Redis, RQ, AngularJS.**
 
+  - **Engelink**
+  
+    De uma forma geral, a **Engelink** é um sistema web voltado para o mundo da construção civil, nele o cliente pode criar cotações para os mais diversos tipos de obra e receber orçamentos de fornecedores cadastrados na plataforma, escolhendo o que melhor se encaixar nos seus requisitos. Neste projeto atuei principalmente no backend, criando rotinas, desenvolvendo novas funcionalidades, integrações com parceiros externos e gateways de pagamento, testes, e fazendo manutenção, mas também atuei um pouco no desenvolvimento front nos casos de maior demanda, visando agilizar as entregas.
+**Tecnologias Utilizadas: Python, Django, Django REST Framework, openpyxl, requests, PostgreSQL, Git, SSO, Redis, Celery, Docker, Kubernetes, Javascript, VueJS, Lumen, HTML, CSS, Mock, TDD.**
+
   - **Yummie App**
   
     **Yummie** é um aplicativo de nicho no formato rede social voltado ao mundo da gastronomia, onde os usuários podem trocar experiências e recomendações por meio de fotos e avaliações. Fiquei responsável por dar manutenção no sistema backend feito em Php e também em desenvolver um sistema em Python com novas funcionalidades, migrando lentamente as já existentes para ele. Dentre elas destaca-se a integração com o Instagram, de forma que o usuário associa sua conta ao aplicativo e ele importa posts de acordo com parâmetros definidos pelos curadores da rede (normalmente hashtags específicas).
@@ -56,11 +61,3 @@ O curso de Informática foi direcionado ao desenvolvimento de aplicações Deskt
 
 **Hands on Solutions** é uma empresa de consultoria e assessoria especializada em gestão empresarial e tributária, onde busca atuar apresentando e implantando soluções, processos e mecanismos que venham tornar o dia-a-dia das empresas mais dinâmico e  gerar valor agregado aos acionistas. Fui responsável por testar uma plataforma de desenvolvimento *low code* chamada [Mendix](https://www.mendix.com/), nela desenvolvi um sistema de análise tributária de carga-descarga de dados em excel e geração de relatórios.
 **Tecnologias utilizadas: Git, Mendix, Java, Javascript(Dojo/Dijit), MySQL**
-
-## Outras Atividades
-----
-### Feira Norte de Tecnologia e Ciência - 2014
-*MAOSights*
-
-Apresentação do aplicativo desenvolvido no último ano do curso técnico, para Windows Phone, que funcionava como um guia regional dos principais pontos turísticos da cidade de Manaus e possibilitava a troca de experiências através do envio de fotos, avaliações e comentários.
-**Tecnologias utilizadas: C#, Visual Studio, Azure, XAML.**
