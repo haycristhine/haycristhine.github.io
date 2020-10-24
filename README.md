@@ -1,13 +1,13 @@
 # Haydê Machado
 
-![](https://pt.gravatar.com/userimage/155115996/55bbd348440367fa92c4ebb252427885.jpg?size=200)
+![](https://pt.gravatar.com/userimage/155115996/8d89f0d4247cae36b5d0eb8ae6bfd7a2.jpg?size=200)
 
 ### Desenvolvedora de Software
 *[hayde.cristhine@gmail.com](mailto:hayde.cristhine@gmail.com)*  
 [Github](https://github.com/haycristhine) | [Linkedin](https://www.linkedin.com/in/hayde-machado/)
 
 *+55 21 99655 4541*  
-*Niterói/RJ*  
+*Niterói/RJ - Manaus/AM*  
 
 Sou técninca em informática formada pela  *Fundação Nokia*, atualmente [*Fundação Mathias Machline*](https://www.fundacaomatiasmachline.org.br/), e atuo como desenvolvedora de software no mercado há cerca de 4 anos, em sua maior parte como *Backend* utilizando a linguagem Python e o *framework* Django, porém tenho vivência em diversas outras linguagens como C#, Java, Javascript, Php, etc. Apesar de Python ser a linguagem com a qual possuo mais experiência, estou sempre disposta a aprender tecnologias novas, e valorizo bastante ambientes de trabalho que possam proporcionar essa flexibilidade e incentivar o aprendizado e crescimento de cada um, assim como do ecossistema como um todo.  
 
@@ -32,7 +32,7 @@ O curso de Informática foi direcionado ao desenvolvimento de aplicações Deskt
 ## Experiência Profissional
 ---
 ### Desenvolvedora, Finxi
-*02/2016 - presente*
+*02/2016 - 08/2020*
 
 **Finxi** é uma empresa que provê consultoria de tecnologia para várias empresas e atualmente funciona como uma incubadora de startups. 
 ##### Projetos
