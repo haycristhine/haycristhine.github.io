@@ -9,9 +9,9 @@
 *+55 21 99655 4541*  
 *Niterói/RJ - Manaus/AM*  
 
-Sou técninca em informática formada pela  *Fundação Nokia*, atualmente [*Fundação Mathias Machline*](https://www.fundacaomatiasmachline.org.br/), e atuo como desenvolvedora de software no mercado há cerca de 4 anos, em sua maior parte como *Backend* utilizando a linguagem Python e o *framework* Django, porém tenho vivência em diversas outras linguagens como C#, Java, Javascript, Php, etc. Apesar de Python ser a linguagem com a qual possuo mais experiência, estou sempre disposta a aprender tecnologias novas, e valorizo bastante ambientes de trabalho que possam proporcionar essa flexibilidade e incentivar o aprendizado e crescimento de cada um, assim como do ecossistema como um todo.  
+Sou técninca em informática formada pela  *Fundação Nokia*, atualmente [*Fundação Mathias Machline*](https://www.fundacaomatiasmachline.org.br/), atualmente formanda em Sistemas de Informação pela Universidade Federal Fluminense e atuo como desenvolvedora de software no mercado há cerca de 6 anos, em sua maior parte como *Backend* utilizando a linguagem Python e o *framework* Django, porém tenho vivência em diversas outras linguagens como C#, Java, Javascript, Php, etc. Apesar de Python ser a linguagem com a qual possuo mais experiência, estou sempre disposta a aprender tecnologias novas, e valorizo bastante ambientes de trabalho que possam proporcionar essa flexibilidade e incentivar o aprendizado e crescimento de cada um, assim como do ecossistema como um todo.  
 
-Leio, escrevo e falo bem o inglês, e também possuo conhecimento básico em espanhol, um dos meus objetivos a médio/longo prazo é aprender o francês. Já trabalhei em regimes presenciais, remotos e semi-presenciais, sendo este último o qual me encontro atualmente. Acredito que a comunicação é um fator crucial para que o trabalho em equipe dê bons resultados, por isso, independente do regime no qual esteja, busco sempre estar alinhada com o time.
+Leio, escrevo e falo bem o inglês, e também possuo conhecimento básico em espanhol. Já trabalhei em regimes presenciais, remotos e semi-presenciais, sendo este último o qual me encontro atualmente. Acredito que a comunicação é um fator crucial para que o trabalho em equipe dê bons resultados, por isso, independente do regime no qual esteja, busco sempre estar alinhada com o time.
 
 ## Educação
 ---
@@ -31,6 +31,12 @@ O curso de Informática foi direcionado ao desenvolvimento de aplicações Deskt
 
 ## Experiência Profissional
 ---
+### Desenvolvedora, INDT
+*08/2020 - presente*
+
+ O INDT é um Instituto de Ciência e Tecnologia, fundado em 2001, que faz parte do maior sistema interdependente de inovação tecnológica da Região Norte, atuando na Pesquisa e Desenvolvimento de novos Conceitos, Produtos, Serviços e Soluções Tecnológicas Inovadoras e promovendo a geração de novos negócios. Nele, trabalho em projetos junto a empresas do polo indústrial tanto em teste quando em desenvolvimento, atualmente desenvolvendo uma solução para indústria 4.0 utilizando o **protocolo OPCUA e as ferramentas Python, MongoDB, NodeJS e AngularJS**.
+ 
+
 ### Desenvolvedora, Finxi
 *02/2016 - 08/2020*
 
