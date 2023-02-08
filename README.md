@@ -11,12 +11,14 @@
 
 Sou técnica em informática formada pela  *Fundação Nokia*, atualmente [*Fundação Mathias Machline*](https://www.fundacaomatiasmachline.org.br/), e formanda em Sistemas de Informação pela Universidade Federal Fluminense. Atuo como desenvolvedora de software no mercado há cerca de 6 anos, em sua maior parte como *Backend* utilizando a linguagem Python e o *framework* Django, porém tenho vivência em diversas outras linguagens como C#, Java, Javascript, Php, etc. Apesar de Python ser a linguagem com a qual possuo mais experiência, estou sempre disposta a aprender tecnologias novas, e valorizo bastante ambientes de trabalho que possam proporcionar essa flexibilidade e incentivar o aprendizado e crescimento de cada um, assim como do ecossistema como um todo.  
 
-Leio, escrevo e falo bem o inglês, e também possuo conhecimento básico em espanhol. Já trabalhei em regimes presenciais, remotos e semi-presenciais, sendo este último o qual me encontro atualmente. Acredito que a comunicação é um fator crucial para que o trabalho em equipe dê bons resultados, por isso, independente do regime no qual esteja, busco sempre estar alinhada com o time.
+Leio, escrevo e falo muito bem o inglês, e também possuo conhecimento básico em espanhol. Já trabalhei em regimes presenciais, remotos e semi-presenciais, sendo remoto minha preferência. Acredito que a comunicação é um fator crucial para que o trabalho em equipe dê bons resultados, por isso, independente do regime no qual esteja, busco sempre estar alinhada com o time.
+
+Ultimamente tenho tentado migrar pra área de Cybersegurança, que é algo que tenho interesse há muito tempo, portanto busco oportunidades nessa aréa mesmo que o nível de senioridade seja mais baixo. O objetivo é justamente conseguir ganhar conhecimento e progredir dentro dela.
 
 ## Educação
 ---
 ### Universidade Federal Fluminense
-*03/2015 - presente*
+*03/2015 - 08/2021*
 
 **Bacharelado em Sistemas de Informação**
 
@@ -31,10 +33,21 @@ O curso de Informática foi direcionado ao desenvolvimento de aplicações Deskt
 
 ## Experiência Profissional
 ---
-### Desenvolvedora, INDT
-*08/2020 - presente*
+### Software Engineer | Cybersecurity, Loggi
+*10/2021 - 02/2023*
 
- O INDT é um Instituto de Ciência e Tecnologia, fundado em 2001, que faz parte do maior sistema interdependente de inovação tecnológica da Região Norte, atuando na Pesquisa e Desenvolvimento de novos Conceitos, Produtos, Serviços e Soluções Tecnológicas Inovadoras e promovendo a geração de novos negócios. Nele, trabalho em projetos junto a empresas do polo indústrial tanto em teste quando em desenvolvimento, atualmente desenvolvendo uma solução para indústria 4.0 utilizando o **protocolo OPCUA e as ferramentas Python, MongoDB, NodeJS e AngularJS**.
+ A Loggi é uma empresa bastante conhecida no Brasil, o unicórnio das entregas que teve um rápido crescimento no mercado. Provavelmente a maior empresa que trabalhei até o momento, nela tive contato com diversas tecnologias e metodologias novas e pude aprender bastante, principalmente devido ao fato de ter sido alocada na área de cybersecurity, algo que sempre tive bastante interesse. Durante meu período na loggi aturei majoritariamente na área de Appsecurity, cujas funções em sua maior parte se referiam a gerenciamento e correção de vulnerabilidades, consultoria em segurança de código e SAST. Também tive a oportunidade de participar do desenvolvimento de um sistema de single sign-on para a empresa, utilizando **React, Terraform, AWS Cognito, Firebase, API Rest e algumas outras ferramentas**. A loggi tbm presava muito por documentação, então também tive a oportunidade de elaborar e revisar documentos técnicos através de uma plataforma chamada **Confluence**. **Outras ferramentas/técnicas com as quais tive contato: Git (gitflow), Python/Django, Docker, Graphql, django requests, feature switches, metodologias ágeis (Jira), TDD, CI/CD (Circle CI/ SonarCloud), Vault, Rundeck, Kubernetes, Amazon AWS, Burpsuite**
+
+### Desenvolvedora, TrueChange
+*04/2021 - 10/2021*
+
+ A Truechange é uma empresa focada em desenvolvimento lowcode utilizando a plataforma **Mendix**, nela são desenvolvidos vários projetos em conjunto com outras empresas focando em aproveitar os benefícios do lowcode para facilitar e agilizar as entregas. Nela, atuei num projeto de implementação do sistema de pagamentos via PIX para uma provedora de cartões de crédito. **Algumas tecnologias/ferramentas utilizadas: Mendix, API REST, PostgreSql, Kafka, processamento de mensagens em XML/Json via Mendix, comunicação com a API do banco central responsável pelo sistema PIX.**
+
+
+### Desenvolvedora, INDT
+*08/2020 - 04/2021*
+
+ O INDT é um Instituto de Ciência e Tecnologia, fundado em 2001, que faz parte do maior sistema interdependente de inovação tecnológica da Região Norte, atuando na Pesquisa e Desenvolvimento de novos Conceitos, Produtos, Serviços e Soluções Tecnológicas Inovadoras e promovendo a geração de novos negócios. Nele, trabalhei em projetos junto a empresas do polo indústrial tanto em teste quando em desenvolvimento, atualmente desenvolvendo uma solução para indústria 4.0 utilizando o **protocolo OPCUA e as ferramentas Python, MongoDB, NodeJS e AngularJS**. Além de atuar como QA/Tester num projeto associado junto à TPV/Phillips elaborando testes para o middleware **Ginga CC Webservices**, cuja presença é obrigatória em todas as tvs digitais produzidas no Brasil.
  
 
 ### Desenvolvedora, Finxi
