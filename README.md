@@ -9,11 +9,7 @@
 *+55 21 99655 4541*  
 *Niterói/RJ - Manaus/AM*  
 
-Sou técnica em informática formada pela  *Fundação Nokia*, atualmente [*Fundação Mathias Machline*](https://www.fundacaomatiasmachline.org.br/), e formanda em Sistemas de Informação pela Universidade Federal Fluminense. Atuo como desenvolvedora de software no mercado há cerca de 6 anos, em sua maior parte como *Backend* utilizando a linguagem Python e o *framework* Django, porém tenho vivência em diversas outras linguagens como C#, Java, Javascript, Php, etc. Apesar de Python ser a linguagem com a qual possuo mais experiência, estou sempre disposta a aprender tecnologias novas, e valorizo bastante ambientes de trabalho que possam proporcionar essa flexibilidade e incentivar o aprendizado e crescimento de cada um, assim como do ecossistema como um todo.  
-
-Leio, escrevo e falo muito bem o inglês, e também possuo conhecimento básico em espanhol. Já trabalhei em regimes presenciais, remotos e semi-presenciais, sendo remoto minha preferência. Acredito que a comunicação é um fator crucial para que o trabalho em equipe dê bons resultados, por isso, independente do regime no qual esteja, busco sempre estar alinhada com o time.
-
-Ultimamente tenho tentado migrar pra área de Cybersegurança, que é algo que tenho interesse há muito tempo, portanto busco oportunidades nessa aréa mesmo que o nível de senioridade seja mais baixo. O objetivo é justamente conseguir ganhar conhecimento e progredir dentro dela.
+Sou técnica em informática formada pela  *Fundação Nokia*, atualmente [*Fundação Mathias Machline*](https://www.fundacaomatiasmachline.org.br/), e formanda em Sistemas de Informação pela Universidade Federal Fluminense. Atuo como desenvolvedora de software no mercado há cerca de 8 anos, em sua maior parte como *Backend* utilizando a linguagem Python e o *framework* Django, porém tenho vivência em diversas outras linguagens como C#, Java, Javascript, Php, entre outros. Apesar de Python ser a linguagem com a qual possuo mais experiência, estou sempre disposta a aprender novas tecnologias e ferramentas.
 
 ## Educação
 ---
