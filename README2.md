@@ -182,7 +182,7 @@ Informatics course focused on Desktop and Web application development, with spec
 ## Key Strengths
 
 - **Embedded Systems:** Specialized experience in developing middleware for digital TV systems and compliance with industry standards
-- **Security-First Mindset:** Extensive experience in cybersecurity, application security, and vulnerability management
+- **Security-First Mindset:** Experience in cybersecurity, application security, and vulnerability management
 - **Full-Stack Versatility:** Capable of working across the entire technology stack from embedded systems to web and mobile applications
 - **R&D Innovation:** Proven track record in research and development projects with cutting-edge technologies including AI/ML
 - **Integration Expertise:** Proven track record in complex system integrations and API development
