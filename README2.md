@@ -50,7 +50,7 @@ Informatics course focused on Desktop and Web application development, with spec
 
 ---
 
-### Loggi | *10/2021 - 02/2023*
+### Loggi | Software Engineer | AppSecurity | *10/2021 - 02/2023*
 
 - **Context:** Loggi is Brazil's leading delivery unicorn with rapid market growth, requiring robust cybersecurity measures and streamlined authentication systems
 - **Responsibilities:** Allocated to cybersecurity area focusing on application security, vulnerability management, code security consulting, and SAST implementation
@@ -65,7 +65,7 @@ Informatics course focused on Desktop and Web application development, with spec
 
 ---
 
-### Truechange | *04/2021 - 10/2021*
+### Truechange | Low Code Software Developer | *04/2021 - 10/2021*
 
 - **Context:** Company specialized in low-code development using Mendix platform, working with credit card providers to implement Brazil's new PIX payment system
 - **Responsibilities:** Implement PIX payment system for a credit card provider using low-code development approach
@@ -80,7 +80,7 @@ Informatics course focused on Desktop and Web application development, with spec
 
 ---
 
-### INDT | *08/2020 - 04/2021*
+### INDT | Software Developer | *08/2020 - 04/2021*
 
 - **Context:** Science and Technology Institute focused on R&D for innovative technological solutions in Northern Brazil's industrial sector
 - **Responsibilities:** Develop Industry 4.0 solutions and perform QA testing for digital TV middleware
@@ -94,7 +94,7 @@ Informatics course focused on Desktop and Web application development, with spec
 
 ---
 
-### Finxi | *02/2016 - 08/2020*
+### Finxi | Software Developer | *02/2016 - 08/2020*
 
 #### DMS Logistics Project
 
@@ -150,7 +150,7 @@ Informatics course focused on Desktop and Web application development, with spec
 
 ---
 
-### Hands on Solutions | *09/2015 - 02/2016*
+### Hands on Solutions | Low Code Software Developer | *09/2015 - 02/2016*
 
 - **Context:** Consulting and advisory company specializing in business and tax management, seeking to implement dynamic solutions for client companies
 - **Responsibilities:** Test and develop solutions using low-code platform for tax analysis
