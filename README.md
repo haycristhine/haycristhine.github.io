@@ -29,6 +29,12 @@ O curso de Informática foi direcionado ao desenvolvimento de aplicações Deskt
 
 ## Experiência Profissional
 ---
+
+### Software Engineer | Pesquisador, TPV
+*04/2023 - atual*
+
+A TPV é uma multinacional responsável por produzir eletroeletronicos, dentre eles televisões, para marcas como Phillips e AOC. Nela, trabalhei no setor de P&D, inicialmente como desenvolvedora do middleware GINGA CC WEBSERVICES, garantindo sua adequação às normas do fórum SBDTV. O trabalho gerou experiência em desenvolvimento de sistemas embarcados com C/C++, criação de testes e correção de bugs. ALém disso também atuei em projetos de P&D mais abrangentes, expandindo a stack para desenvolvimento web com python e mobile com dart/flutter. Também houve experiência na utilização de ferramentas devops como Docker e AWS, desenvolvimento de APIs REST, desenvolvimento e integração com algoritmos de ML, utilização de LLMS e integração entre sistemas. Criação de código limpo e adequado a pipelines de qualidade e análise estática (coverity, blackduck, etc).
+
 ### Software Engineer | Cybersecurity, Loggi
 *10/2021 - 02/2023*
 
