@@ -10,25 +10,12 @@
 
 ## Professional Summary
 
-Software Engineer with ~10 years of experience building production systems with Python, Django, and relational databases in unicorns, consultancies, and R&D environments. [memory:31]  
-Strong in APIs, integrations, security, and embedded/backoffice backends, with a focus on clean architecture, reliability, and maintainability. [memory:23]  
-
----
-
-## Technical Skills
-
-- **Backend & Languages:** Python, Django, Django REST Framework, C/C++, C#, Java, JavaScript, PHP, SQL  
-- **APIs & Integration:** REST, GraphQL, SSO, Google Maps API, Instagram API, Central Bank API  
-- **Databases & Messaging:** PostgreSQL, MySQL, MongoDB, Redis, Celery, RQ, Kafka  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, ElasticBeanstalk, CircleCI, SonarCloud, Terraform, Fabric  
-- **Security & Quality:** Application Security, SAST, Vulnerability Management, Burpsuite, Coverity, BlackDuck, TDD, unittest, Mock  
-- **Other:** GINGA CC WEBSERVICES, SBDTV standards, OPCUA protocol, Mendix, Jira, Confluence  
-
----
+Software Engineer with ~10 years of experience building production systems with Python, Django, and relational databases in unicorns, consultancies, and R&D environments.
+Strong in APIs, integrations, security, and embedded/backoffice backends, with a focus on clean architecture, reliability, and maintainability. 
 
 ## Professional Experience
 
-### TPV | Software Engineer & Researcher | *04/2023 – Present*
+### TPV | Software Engineer & Researcher | *04/2023 – 09/2025*
 
 - Developed and maintained GINGA CC WEBSERVICES middleware in C/C++ for Philips/AOC TVs, ensuring compliance with SBDTV standards.  
 - Built tests and tooling for embedded TV systems, reducing regressions and field issues.  
@@ -56,7 +43,7 @@ Strong in APIs, integrations, security, and embedded/backoffice backends, with a
 - Integrated with Brazil’s Central Bank via REST APIs, handling XML/JSON financial messages.  
 - Used Kafka and PostgreSQL for reliable payment event processing and storage.  
 
-**Tech:** Mendix, REST APIs, PostgreSQL, Kafka, XML/JSON, Central Bank APIs  
+**Tech:** Mendix, REST APIs, PostgreSQL, Kafka, XML/JSON
 
 ---
 
@@ -77,7 +64,7 @@ Strong in APIs, integrations, security, and embedded/backoffice backends, with a
 - Automated generation of air/maritime shipping documents and built a real‑time tracking portal for customers.  
 - Integrated five interconnected systems, improving data consistency across operations.  
 
-**Tech:** Python, Django, DRF, PostgreSQL, Redis, RQ, openpyxl, Fabric, AngularJS, Docker  
+**Tech:** Python, Django, DRF, PostgreSQL, Redis, RQ, openpyxl, AngularJS, Docker  
 
 #### Engelink
 
@@ -92,7 +79,7 @@ Strong in APIs, integrations, security, and embedded/backoffice backends, with a
 - Maintained a PHP backend and led migration to Python/Django with a more scalable architecture.  
 - Implemented Instagram integration to import curated posts via hashtags, increasing user engagement.  
 
-**Tech:** Python, Django, DRF, PostgreSQL, MySQL, Docker, ElasticBeanstalk, Kubernetes, Cloudinary, Celery, Redis, unittest, TDD  
+**Tech:** Python, Django, DRF, PostgreSQL, MySQL, Docker, Kubernetes, Cloudinary, Celery, Redis
 
 #### Asapp Beleza
 
@@ -108,7 +95,7 @@ Strong in APIs, integrations, security, and embedded/backoffice backends, with a
 - Built and validated a tax analysis solution using Mendix for consulting clients.  
 - Implemented Excel import/export and automated report generation to streamline reporting.  
 
-**Tech:** Mendix, Java, JavaScript (Dojo/Dijit), MySQL, Git  
+**Tech:** Mendix, Java, JavaScript, MySQL, Git  
 
 ---
 
