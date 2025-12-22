@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-Software Engineer with ~10 years of experience building production systems with Python, Django, and relational databases in unicorns, consultancies, and R&D environments.
+Software Engineer with ~10 years of experience building production systems with Python, Django, and relational databases in startups, medium and large companies.
 
 Strong in APIs, integrations, security, and embedded/backoffice backends, with a focus on clean architecture, reliability, and maintainability. 
 
