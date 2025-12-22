@@ -1,4 +1,4 @@
-# Haydê Machado — Software Engineer
+# Haydê Machado — Senior Backend Engineer | Python
 
 ## Contact
 
@@ -10,50 +10,58 @@
 
 ## Professional Summary
 
-Software Engineer with ~10 years of experience building production systems with Python, Django, and relational databases in startups, medium and large companies.
+Senior Backend Engineer with 10 years of experience building scalable, high-performance APIs and microservices using Python. Expert in Django/DRF, PostgreSQL, Redis, and AWS cloud infrastructure. Proven track record designing event-driven architectures, implementing security best practices, and leading backend migrations in fintech, logistics, and security domains. Strong focus on clean architecture, TDD, and system reliability.
 
-Strong in APIs, integrations, security, and embedded/backoffice backends, with a focus on clean architecture, reliability, and maintainability. 
+## Technical Skills
+
+**Languages:** Python, SQL, C/C++, Javascript
+**Backend Frameworks:** Django, Django REST Framework, Flask, FastAPI, NodeJS
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis
+**Message Brokers:** Kafka, RQ, Celery
+**Infrastructure & DevOps:** Docker, Kubernetes, AWS (EC2, S3, Lambda, Cognito), CI/CD (CircleCI, GitHub Actions)
+**Security Tools:** SAST, Vault, Burpsuite, SonarCloud
+**Practices:** REST/GraphQL APIs, Microservices, TDD, Clean Architecture, Event-Driven Design
 
 ## Professional Experience
 
-### TPV | Software Engineer & Researcher | *04/2023 – 09/2025*
+### TPV | Software Engineer & Researcher | *04/2023 – present *
 
-- Developed and maintained GINGA CC WEBSERVICES middleware in C/C++ for Philips/AOC TVs, ensuring compliance with SBDTV standards.  
-- Built tests and tooling for embedded TV systems, reducing regressions and field issues.  
-- Created backend/APIs in Python and mobile components in Dart/Flutter for R&D initiatives.  
-- Introduced Docker and AWS in P&D workflows and integrated ML/LLM components into projects, improving experimentation and productivity.  
+- Built Python-based backend services and REST APIs for R&D initiatives, supporting experimentation with ML/LLM integration.
+- Architected and deployed Docker containerized services on AWS, improving development workflow efficiency.
+- Developed and maintained GINGA CC WEBSERVICES middleware in C/C++ for Philips/AOC TVs, ensuring compliance with SBDTV standards.
 
-**Tech:** C/C++, Python, Dart/Flutter, Docker, AWS, REST APIs, ML, LLMs, Coverity, BlackDuck, embedded systems  
+**Tech:** Python, C/C++, Docker, AWS, REST APIs, ML/LLMs, embedded systems
 
 ---
 
 ### Loggi | Software Engineer | AppSecurity | *10/2021 – 02/2023*
 
-- Managed and remediated vulnerabilities across multiple services, improving application security posture.  
-- Implemented SAST and integrated it into CI/CD, preventing issues from reaching production.  
-- Co‑developed the company SSO platform using React, Terraform, AWS Cognito, Firebase, and REST APIs.  
-- Produced security and system documentation on Confluence to standardize practices.  
+- Managed and remediated vulnerabilities across multiple microservices, improving critical security posture.
+- Implemented SAST pipeline integration with CircleCI, preventing vulnerabilities from reaching production.
+- Co-developed company-wide SSO platform using Python backend, AWS Cognito, and REST APIs for internal users.
+- Established security standards and documentation on Confluence, improving team compliance.
 
-**Tech:** Python/Django, Docker, GraphQL, CircleCI, SonarCloud, Vault, Rundeck, Kubernetes, AWS, Burpsuite, Git (gitflow), Jira  
-
----
-
-### Truechange | Low Code Software Developer | *04/2021 – 10/2021*
-
-- Delivered a PIX instant payment solution for a credit card provider using Mendix.  
-- Integrated with Brazil’s Central Bank via REST APIs, handling XML/JSON financial messages.  
-- Used Kafka and PostgreSQL for reliable payment event processing and storage.  
-
-**Tech:** Mendix, REST APIs, PostgreSQL, Kafka, XML/JSON
+**Tech:** Python/Django, Docker, GraphQL, REST APIs, CircleCI, SonarCloud, Vault, Kubernetes, AWS, Burpsuite, Git
 
 ---
 
-### INDT | Software Developer | *08/2020 – 04/2021*
+### Truechange | Backend Developer | *04/2021 – 10/2021*
 
-- Built Industry 4.0 services using OPCUA with Python, MongoDB, NodeJS, and AngularJS for industrial monitoring.  
-- Performed QA and tests for TPV/Philips Ginga CC Webservices middleware to meet digital TV regulations.  
+- Delivered PIX instant payment gateway for major credit card provider with high availability.
+- Designed and implemented event-driven architecture using Kafka for real-time payment processing and PostgreSQL for transactional storage.
+- Built REST API integration with Brazil's Central Bank, handling complex XML/JSON financial message validation and reconciliation.
 
-**Tech:** Python, MongoDB, NodeJS, AngularJS, OPCUA, Ginga CC Webservices  
+**Tech:** Mendix, REST APIs, PostgreSQL, Kafka, Event-Driven Architecture
+
+---
+
+### INDT | Backend Developer | *08/2020 – 04/2021*
+
+- Built Industry 4.0 monitoring services using Python, OPCUA protocol, and MongoDB for real-time industrial data collection and analysis.
+- Developed REST APIs for IoT device communication and sensor data processing.
+- Performed QA and integration testing for embedded middleware systems, ensuring regulatory compliance.
+
+**Tech:** Python, MongoDB, REST APIs, OPCUA, NodeJS
 
 ---
 
@@ -61,49 +69,53 @@ Strong in APIs, integrations, security, and embedded/backoffice backends, with a
 
 #### DMS Logistics
 
-- Developed backend and frontend for a logistics management system, including client, pricing, and budgeting modules.  
-- Automated generation of air/maritime shipping documents and built a real‑time tracking portal for customers.  
-- Integrated five interconnected systems, improving data consistency across operations.  
+- Architected and developed RESTful backend for logistics management platform using Django/DRF.
+- Built automated document generation system for air/maritime shipping, significantly reducing processing time.
+- Designed integration layer unifying multiple legacy systems with event-driven architecture using Redis/RQ, improving data consistency.
+- Implemented real-time tracking API with WebSocket support for customer portal.
 
-**Tech:** Python, Django, DRF, PostgreSQL, Redis, RQ, openpyxl, AngularJS, Docker  
+**Tech:** Python, Django, DRF, PostgreSQL, Redis, RQ, Docker, REST APIs
 
 #### Engelink
 
-- Implemented backend features and integrations for a construction marketplace (suppliers ↔ clients).  
-- Integrated external systems and payment gateways, and contributed to testing and maintenance.  
-- Supported frontend delivery with VueJS and JavaScript during peak demand.  
+- Developed backend microservices for B2B construction marketplace connecting suppliers with enterprise clients.
+- Integrated multiple payment gateways and ERP systems via REST APIs for transaction processing.
+- Implemented asynchronous task processing with Celery for order fulfillment and notification systems.
+- Applied TDD practices with comprehensive code coverage on critical payment and order modules.
 
-**Tech:** Python, Django, DRF, PostgreSQL, Redis, Celery, Docker, Kubernetes, VueJS, Lumen, Mock, TDD  
+**Tech:** Python, Django, DRF, PostgreSQL, Redis, Celery, Docker, Kubernetes, TDD
 
 #### Yummie App
 
-- Maintained a PHP backend and led migration to Python/Django with a more scalable architecture.  
-- Implemented Instagram integration to import curated posts via hashtags, increasing user engagement.  
+- Led complete backend migration from PHP to Python/Django, redesigning architecture for improved scalability.
+- Architected microservices architecture with Celery for background jobs and Redis for caching, optimizing API response time.
+- Built REST API integration with Instagram Graph API for automated content curation, enhancing user engagement.
 
-**Tech:** Python, Django, DRF, PostgreSQL, MySQL, Docker, Kubernetes, Cloudinary, Celery, Redis
+**Tech:** Python, Django, DRF, PostgreSQL, Docker, Kubernetes, Celery, Redis, REST APIs
 
 #### Asapp Beleza
 
-- Developed backend APIs and frontend components for a beauty services and salon discovery platform.  
-- Implemented subscription/discount plans and features to increase salon visibility and user retention.  
+- Developed RESTful APIs using Django/DRF for beauty services marketplace.
+- Designed and implemented subscription payment system with recurring billing logic and discount engine.
+- Integrated Google Maps API for geolocation-based salon search with optimized PostgreSQL queries.
 
-**Tech:** Python, Django, DRF, Google Maps API, PostgreSQL, Docker, Kubernetes, JavaScript, HTML, CSS  
+**Tech:** Python, Django, DRF, PostgreSQL, Docker, Kubernetes, Google Maps API, REST APIs
 
 ---
 
-### Hands on Solutions | Low Code Software Developer | *09/2015 – 02/2016*
+### Hands on Solutions | Software Developer | *09/2015 – 02/2016*
 
-- Built and validated a tax analysis solution using Mendix for consulting clients.  
-- Implemented Excel import/export and automated report generation to streamline reporting.  
+- Developed tax analysis solution with automated report generation and Excel integration for consulting clients.
+- Built data processing pipelines using Java and MySQL for financial calculations.
 
-**Tech:** Mendix, Java, JavaScript, MySQL, Git  
+**Tech:** Java, JavaScript, MySQL, Git
 
 ---
 
 ## Education
 
-### Bachelor’s Degree in Information Systems  
-**Universidade Federal Fluminense** | *03/2015 – 08/2021*  
+### Bachelor’s Degree in Information Systems
+**Universidade Federal Fluminense** | *03/2015 – 08/2021*
 
-### Technical High School in Informatics  
-**Fundação Nokia (now Fundação Mathias Machline)** | *02/2012 – 12/2014*  
+### Technical High School in Informatics
+**Fundação Nokia (now Fundação Mathias Machline)** | *02/2012 – 12/2014*
