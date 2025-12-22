@@ -14,13 +14,13 @@ Senior Backend Engineer with 10 years of experience building scalable, high-perf
 
 ## Technical Skills
 
-**Languages:** Python, SQL, C/C++, Javascript
-**Backend Frameworks:** Django, Django REST Framework, Flask, FastAPI, NodeJS
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis
-**Message Brokers:** Kafka, RQ, Celery
-**Infrastructure & DevOps:** Docker, Kubernetes, AWS (EC2, S3, Lambda, Cognito), CI/CD (CircleCI, GitHub Actions)
-**Security Tools:** SAST, Vault, Burpsuite, SonarCloud
-**Practices:** REST/GraphQL APIs, Microservices, TDD, Clean Architecture, Event-Driven Design
+**Languages:** Python, SQL, C/C++, Javascript.
+**Backend Frameworks:** Django, Django REST Framework, Flask, FastAPI, NodeJS.
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis.
+**Message Brokers:** Kafka, RQ, Celery.
+**Infrastructure & DevOps:** Docker, Kubernetes, AWS (EC2, S3, Lambda, Cognito), CI/CD (CircleCI, GitHub Actions).
+**Security Tools:** SAST, Vault, Burpsuite, SonarCloud.
+**Practices:** REST/GraphQL APIs, Microservices, TDD, Clean Architecture, Event-Driven Design.
 
 ## Professional Experience
 
