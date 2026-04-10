@@ -31,7 +31,7 @@ Senior Backend Engineer with 10 years of experience building scalable, high-perf
 
 ## Professional Experience
 
-### Valora | Software Engineer & Researcher | *09/2025 – present *
+### Valora | Software Engineer | *09/2025 – present *
 
 - Automated data ingestion and transformation pipelines using Python (pandas, scripting), reducing manual processing time from 30 minutes to under 5 minutes.
 - Diagnosed and optimized underperforming SQL queries through query rewriting, index analysis and execution plan review (PostgreSQL / EXPLAIN ANALYZE), improving database response times across critical workflows.
