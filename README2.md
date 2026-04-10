@@ -31,7 +31,15 @@ Senior Backend Engineer with 10 years of experience building scalable, high-perf
 
 ## Professional Experience
 
-### TPV | Software Engineer & Researcher | *04/2023 – present *
+### Valora | Software Engineer & Researcher | *09/2025 – present *
+
+- Automated data ingestion and transformation pipelines using Python (pandas, scripting), reducing manual processing time from 30 minutes to under 5 minutes.
+- Diagnosed and optimized underperforming SQL queries through query rewriting, index analysis and execution plan review (PostgreSQL / EXPLAIN ANALYZE), improving database response times across critical workflows.
+- Built an internal data analysis system using SQL + Streamlit, enabling self-service access to business insights and replacing manual reporting processes.
+
+**Tech:** Python, Pandas/Polars, Streamlit, SQL
+
+### TPV | Software Engineer & Researcher | *04/2023 – 09/2025 *
 
 - Built Python-based backend services and REST APIs for R&D initiatives, supporting experimentation with ML/LLM integration.
 - Architected and deployed Docker containerized services on AWS, improving development workflow efficiency.
